@@ -1,5 +1,7 @@
 ### In Memory Database Management Workshop
 
+http://imdm.ws/2015/program/
+
 #### ToDo
 - Look at Bitweaving
 - Read WideTable paper
