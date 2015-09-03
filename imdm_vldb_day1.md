@@ -9,6 +9,10 @@ http://imdm.ws/2015/program/
 - Get An Analysis of In-Memory Database Durability Techniques presentation
 - Read Partitioned Bit-Packed Vectors for In-Memory-Column-Stores
 
+#### Recommended Presentations
+  * SLIK: Scalable Low-Latency Indexes for a Key-Value Store, Ankita Kejriwal (Stanford)
+  * Near Memory Databases and Other Lessons, Ryan Betts, CTO VoltDB
+
 #### Biggest Takeaways:
   * Oracle and big vendors are pushing db-specific hardware, but its a much bigger hill to climb for academic/oss databases
   * Ankita Kejriwal knows her shit. One of the most impressive Q&As I've seen at a conference.
